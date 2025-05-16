@@ -1,4 +1,4 @@
-## Hi there 👋
+## LISTA DE PROYECTOS
 [(DIMMER) o Regulador de AC con TRIAC](https://github.com/CZR312/proyectosdeelectronica/blob/main/(DIMMER)%20o%20Regulador%20de%20AC%20con%20TRIAC.md)
 <!--
 **CZR312/CZR312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
