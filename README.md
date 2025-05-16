@@ -1,5 +1,5 @@
 ## LISTA DE PROYECTOS
-[(DIMMER) o Regulador de AC con TRIAC](https://github.com/CZR312/proyectosdeelectronica/blob/main/(DIMMER)%20o%20Regulador%20de%20AC%20con%20TRIAC.md)
+[(DIMMER) o Regulador de AC con TRIAC](https://github.com/CZR312/proyectosdeelectronica/blob/main/(DIMMER)%20o%20Regulador%20de%20AC%20con%20TRIAC.md)  
 [COMPUERTAS LOGICAS CON TRANSISTORES TIPO N y P](https://github.com/CZR312/proyectosdeelectronica/blob/main/COMPUERTAS%20LOGICAS%20CON%20TRANSISTORES%20TIPO%20N%20y%20P.md)
 
 <!--
