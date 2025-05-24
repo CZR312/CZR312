@@ -1,7 +1,7 @@
 ## LISTA DE PROYECTOS
 [(DIMMER) o Regulador de AC con TRIAC](https://github.com/CZR312/proyectosdeelectronica/blob/main/(DIMMER)%20o%20Regulador%20de%20AC%20con%20TRIAC.md)  
 [COMPUERTAS LOGICAS CON TRANSISTORES TIPO N y P](https://github.com/CZR312/proyectosdeelectronica/blob/main/COMPUERTAS%20LOGICAS%20CON%20TRANSISTORES%20TIPO%20N%20y%20P.md)  
-[SHIFT REGISTER](https://github.com/CZR312/proyectosdeelectronica/blob/main/SHIFT%20REGISTER.md)
+[SHIFT REGISTER](https://github.com/CZR312/proyectosdeelectronica/blob/main/SHIFT%20REGISTER.md)  
 [PLANO DOMICILIAR DE ILUMINACIÓN Y FUERZA](https://github.com/CZR312/proyectosdeelectronica/blob/main/PLANO%20DOMICILIAR%20DE%20ILUMINACI%C3%93N%20Y%20FUERZA.md)
 
 <!--
